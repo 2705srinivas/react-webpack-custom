@@ -9,7 +9,7 @@ console.log(One)
 
 ReactDOM.render(
     <React.StrictMode>
-        <div>Hi I am from react!</div>
+        <div>Hi I am from react!!!!</div>
         <App />
     </React.StrictMode>
     , document.getElementById('root'))
